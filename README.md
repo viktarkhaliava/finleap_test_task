@@ -19,7 +19,11 @@ $ npm run start:dev
 ```
 
 ## Swagger
+### Locally
 http://localhost:3000/api
+
+### Deployed app link
+http://18.185.30.87:3000/api
 
 ## Test
 
